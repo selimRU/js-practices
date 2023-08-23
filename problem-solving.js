@@ -46,5 +46,3 @@ const maxNumber = (arr1, arr2) => {
 const array1 = [3, 4, 5, 2];
 const array2 = [4, 7, 9, 22];
 console.log(maxNumber(array1, array2));
-
-const arr = (a,a,a) => console.log(a);
